@@ -83,7 +83,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="develop" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
